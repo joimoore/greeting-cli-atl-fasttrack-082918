@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-request_via_redirect
+require_relative '../lib/greeting.rb
